@@ -1,4 +1,4 @@
-FACE RECOGNITION REGISTRATION SYSTEM PROJECT
+# FACE RECOGNITION REGISTRATION SYSTEM PROJECT
 
 This is a project I created for my A-level Computer Science NEA (I achieved a 100% grade for this)
 
